@@ -2,6 +2,9 @@
 
 namespace App\Models;
 
-    use Illuminate\Database\Eloquent\Model;
-    
-    class Alumno extends Model {}
+use Illuminate\Database\Eloquent\Model;
+
+class Alumno extends Model
+{
+
+}
